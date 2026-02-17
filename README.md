@@ -34,7 +34,7 @@ In this project, I build a cloud-based lab using Microsoft Azure and Sentinel to
 ---
 
 **Log Inspection**
- - After just a few hours of the VM being on, The query shows many failed log-in attemts coming from real attackers over the internet
+ - After just a few hours of the VM being on, The query shows many failed log-in attempts coming from real attackers over the internet
 <img width="1826" height="815" alt="8) query 1" src="https://github.com/user-attachments/assets/43cb34df-f474-4b54-918d-98fca97a5a1d" />
 
 ---
