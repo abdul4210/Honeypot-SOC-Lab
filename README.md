@@ -21,3 +21,15 @@ In this project, I build a cloud-based lab using Microsoft Azure and Sentinel to
 <img width="1305" height="825" alt="3) disable firewall" src="https://github.com/user-attachments/assets/3ac44e06-ba69-4ca9-b17f-fbeffb1a62b2" />
 
 ---
+
+**Log Repository**
+ - A mock SOC is setup using Sentinel as the SIEM
+ - A log analytics workspace is created in Azure which will be the central log repository
+ - A Sentinel workspace is created and connected to log analytics
+ - A data collection rule is created to feed the VM's logs into the workspace
+<img width="1770" height="747" alt="4) law" src="https://github.com/user-attachments/assets/9e349e59-781c-480b-b64d-5ce458f3ec72" />
+<img width="857" height="487" alt="5) sent workspace" src="https://github.com/user-attachments/assets/734b5c0d-f8e4-41f3-8791-521b51fa6260" />
+<img width="768" height="737" alt="7) dcr" src="https://github.com/user-attachments/assets/edf4a47e-fc90-4b4e-bb84-fd73d91cb080" />
+
+---
+
