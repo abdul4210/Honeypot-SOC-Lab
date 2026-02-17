@@ -11,7 +11,7 @@ In this project, I build a cloud-based lab using Microsoft Azure and Sentinel to
 
 ---
 
-### Lab Workflow
+### Lab Steps
 
 **Honeypot Creation**:
    - A virtual machine is created in Azure that will act as the honeypot
