@@ -1,6 +1,6 @@
 # Honeypot SOC Lab
 
-In this project, I build a cloud-based lab using Microsoft Azure and Sentinel to demonstrate security monitoring, log collection, and threat analysis. I deploy a Windows 11 virtual machine, configure logging and network access, and forward security events into a log analytics workspace. Using KQL, I analyze authentication logs, enrich event data with geographic information, and visualize attack patterns through a world map.
+In this project, I build a cloud-based lab using Microsoft Azure and Sentinel to demonstrate security monitoring, log collection, and threat analysis. I deploy a Windows virtual machine, configure logging and network access, and forward security events into a log analytics workspace. Using KQL, I analyze authentication logs, enrich event data with geographic information, and visualize attack patterns through a world map.
 
 ---
 
